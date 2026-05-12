@@ -1,0 +1,26 @@
+# Dependencies
+/node_modules/
+/.pnpm-store/
+
+# Build and generated output
+/dist/
+/build/
+/.cache/
+/.medusa/
+/coverage/
+/uploads/
+*.tsbuildinfo
+
+# Environment and local DB
+.env
+medusa-db.sql
+
+# Logs
+yarn-error.log
+pnpm-debug.log*
+npm-debug.log*
+
+# Editor and OS files
+.idea/
+.DS_Store
+
