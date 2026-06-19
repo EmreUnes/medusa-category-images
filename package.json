@@ -1,6 +1,6 @@
 {
   "name": "@emreunes/medusa-category-images",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Medusa v2 plugin for managing product category images in Admin.",
   "author": "emreunes",
   "license": "MIT",
